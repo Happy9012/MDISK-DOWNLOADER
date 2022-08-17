@@ -26,8 +26,8 @@ def echo(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Support Group", url=f"https://t.me/NewBotzSupport"),
-                    InlineKeyboardButton("Update Channel", url=f"https://t.me/NewBotz"),
+                    InlineKeyboardButton("Support Group", url=f"https://t.me/Pocketmoviesgroup"),
+                    InlineKeyboardButton("Update Channel", url=f"https://t.me/pocketmovieschannel"),
                 ],
             ]
         ),
